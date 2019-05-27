@@ -1,0 +1,134 @@
+{
+    "serviciosweb":[
+        {
+            "head":"D I S E Ñ A",
+            "url_parallax_img":"./../../../assets/Img/desarrollo-webpara.jpg",
+            "img":"./../../../assets/Img/DISEÑOWEB.png",
+            "contenidop1": "Creamos tu sitio web a medida. Si tenés una web que ya no es funcional o si querés iniciar un proyecto nuevo podemos llevar a cabo la creación de tu imagen online.Realizamos el desarrollo utilizando HTML5, CSS3, Bootstrap, PHP y el CMS más utilizado del mercado, WordPress.",
+            "contenidop2": "Además, todos nuestros diseños son responsivos, es decir, se adaptan a cualquier tamaño de dispositivo basado en estándares de resolución reorganizando el contenido.Autogestionable.La plataforma que utilizamos te permite administrar el contenido una vez que el sitio esté finalizado. Por otro lado, creamos tutoriales explicativos para facilitar el manejo de tu web.",
+            "btnid":"c1",
+            "id":"1",
+            "img_carousel": "./../../assets/Img/desarrollo-web-herramientas.jpg",
+            "tipo": "Desarrollo Web",
+            "tipo2": "IMPRESCINDIBLE",
+            "descripcion_breve": "Creamos tu sitio web a la medida, podemos llevar a cabo el diseño de tu imagen online."
+          },
+          {
+            "head":"C R E A",
+            "url_parallax_img":"./../../../assets/Img/ecommercepara.jpg",
+            "img":"./../../../assets/Img/ecommerce.png",
+            "contenidop1": "Realizamos dentro del sitio una tienda online en la cual cada producto tiene una página, con filtro por categorías de producto. Tu e-shop puede ser un catálogo para exhibir productos o servicios o se puede habilitar un módulo de plataforma de pago.",
+            "contenidop2": "Este incluye los principales medios usados en LATAM, como Mercadopago, Todopago y PayPal. Dentro del servicio se puede incluir el acceso restringido a usuarios y/o clientes.",
+            "btnid":"c2",
+            "id":"2",
+            "img_carousel": "./../../assets/Img/ecommerce.jpg",
+            "tipo": "eCommerce",
+            "tipo2": "POTENCIADOR",
+            "descripcion_breve": "Realizamos dentro del sitio una tienda online con cada uno de los productos 100% modificables por usted mismo."
+          },
+          {
+            "head":"I M A G I N A",
+            "url_parallax_img":"./../../../assets/Img/translatepara.jpg",
+            "img":"./../../../assets/Img/traducciones.png",
+            "contenidop1": "Ofrecemos el servicio de traducción de contenido a inglés, portugués, francés y también la implementación del sitio en sistema multilingüe utilizando los estándares l10n y i18n.",
+            "contenidop2": "Mejorando asi su sitio web permitiendo que muchos mas usuarios tengan la posibilidad de acceder de manera comoda a su sitio.",
+            "btnid":"c3",
+            "id":"1",
+            "img_carousel": "./../../assets/Img/translate.jpg",
+            "tipo": "Traducciones",
+            "tipo2": "EXPANCIÓN",
+            "descripcion_breve": "Ofrecemos el servicio de traduccion de contenido a ingles, portugués y francés."
+          },
+          {
+            "head":"M A T E R I A L I Z A",
+            "url_parallax_img":"./../../../assets/Img/seopara.jpg",
+            "img":"./../../../assets/Img/posicionamiento.png",
+            "contenidop1": "Optimización del sitio para ser indexado por Google y rankear en las primeras páginas según las palabras clave y el objetivo que se defina. Declaramos el .",
+            "contenidop2": "sitio en las plataformas de Google para acelerar el proceso de carga de datos por parte del buscador. También realizamos campañas publicitarias en AdWords, de modo que el sitio rankee como anuncio.",
+            "btnid":"c4",
+            "id":"2",
+            "img_carousel": "./../../assets/Img/seo.jpg",
+            "tipo": "Posicionamiento",
+            "tipo2": "SUPERADOR",
+            "descripcion_breve": "Optimización del sitio para ser indexado por Google y posicionarse en las primeras páginas de su categoria."
+          },
+          {
+            "head":"P L A N I F I C A",
+            "url_parallax_img":"./../../../assets/Img/appwebpara.jpg",
+            "img":"./../../../assets/Img/appweb.png",
+            "contenidop1": "Agregamos un sistema de ingreso a su sitio donde podrá tanto el administrador como el usuario acceder a opciones especiales.",
+            "contenidop2": "Todo esto con un dasboard o panel de control, lo cual mejorara la interacción con los usuarios y los mismos se sentiran smas comodos en su sitio web.",
+            "btnid":"c5",
+            "id":"1",
+            "img_carousel": "./../../assets/Img/appweb.jpg",
+            "tipo": "App Web",
+            "tipo2": "SINGULAR",
+            "descripcion_breve": "Agregamos un sistema de ingreso a su sitio para acceder a opciones especiales."
+          }
+    ],
+    "proyectos":[
+      {
+        "tipo":"eCommerce",
+        "icono":"fa-chart-pie",
+        "titulo":"Tienda digital",
+        "img":"./../../assets/Img/ecommerceproyect.png",
+        "descripcion":"Sitio web destinado para realizar ventas digitales de juegos de consola",
+        "id":"p1"
+      },
+      {
+        "tipo":"eCommerce",
+        "icono":"fa-chart-pie",
+        "titulo":"Tienda digital",
+        "img":"./../../assets/Img/ecommerceproyect.png",
+        "descripcion":"Sitio web destinado para realizar ventas digitales de juegos de consola",
+        "id":"p2"
+      }
+    ],
+    "beneficios":[
+      {
+        "img":"../../assets/Img/dynamic-web-design.png",
+        "titulo":"Diseños Dinamicos",
+        "contenido":"Desarrollo y diseño dinamico, lo cual permite mejor facilidad de lectura para el usuario.",
+        "animacion":"fadeInLeft",
+        "animacion2":"fadeInRight",
+        "classanimation":"wow1",
+        "id": 1
+     },
+     {
+       "img": "../../assets/Img/web mobile.png",
+       "titulo": "Adaptacion Movil",
+       "contenido": "Sitios web completamente adaptados a dispositivos moviles, permitiendo asi la visualización del sitio desde cualquier dispositivo.",
+       "animacion": "fadeInLeft",
+       "animacion2": "fadeInRight",
+       "classanimation": "wow2",
+       "id":2
+     },
+      {
+        "img": "../../assets/Img/adicion modulos.png",
+        "titulo": "Sitios Escalables",
+        "contenido": "Si es necesario agregar módulos se pueden anexar al sitio sin tener que reestructurar la base funcional del mismo. La potencialidad de la web es mucho mayor de lo que desarrollamos en primera instancia.",
+        "animacion": "fadeInLeft",
+        "animacion2": "fadeInRight",
+        "classanimation": "wow3",
+        "id": 1
+      },
+      {
+        "img": "../../assets/Img/client.png",
+        "titulo": "Diseños Singulares",
+        "contenido": "Creamos el sitio en función de las necesidades de cada cliente. Nos enfocamos en un objetivo para alcanzar la metapropuesta.",
+        "animacion": "fadeInLeft",
+        "animacion2": "fadeInRight",
+        "classanimation": "wow4",
+        "id": 2
+      },
+      {
+        "img": "../../assets/Img/carga rapida.png",
+        "titulo": "Carga Rapida",
+        "contenido": "Nuestros diseños estan basados en tecnologias que permiten una mejor visualización del contenido de manera rapida y eficaz permitiendo asi un mejor atractivo para todos los usuarios.",
+        "animacion": "fadeInLeft",
+        "animacion2": "fadeInRight",
+        "classanimation": "wow5",
+        "id": 1
+      }
+    ]
+}
